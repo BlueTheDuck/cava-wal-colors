@@ -2,6 +2,7 @@
 
 lastUrl=""
 
+./update.sh
 # DBus connection data
 sender=org.mpris.MediaPlayer2.spotify 
 interface=org.freedesktop.DBus.Properties
